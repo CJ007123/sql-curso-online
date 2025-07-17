@@ -1,0 +1,21 @@
+# Ignora arquivos e pastas do VS Code
+.vscode/
+*.code-workspace
+
+# Ignora arquivos temporários
+*.log
+*.tmp
+*.temp
+
+# Ignora arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de backup do MySQL
+*.sql~ 
+*.bak
+*.backup
+
+# Ignora arquivos de conexão de extensões
+database-client.json
+sqltoolsConnections.json
