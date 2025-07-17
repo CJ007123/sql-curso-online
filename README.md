@@ -45,8 +45,8 @@ Este projeto simula o banco de dados de uma **plataforma de cursos online**, com
 
 - Ferramentas de apoio: DATABASE Client
 
+📌 Como Executar
 
-##📌 Como Executar
 1.Copie todo o script SQL do projeto.
 
 2.Execute em um ambiente MySQL (Workbench, VS Code ou MySQL Server).
