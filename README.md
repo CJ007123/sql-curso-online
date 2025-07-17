@@ -54,7 +54,7 @@ Este projeto simula o banco de dados de uma **plataforma de cursos online**, com
 3.As views já estão prontas — basta consultar com SELECT * FROM nome_da_view.
 
 
-# Autor
+##Autor
 Cauan
 Estudante de Análise e Desenvolvimento de Sistemas.
-Linkedin:
+Linkedin: https://www.linkedin.com/in/cauan-da-paz-justino-9306b9350/
